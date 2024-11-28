@@ -1,1 +1,7 @@
 File in master
+Some changes made for this file in test branch
+Some changes made for this file in test branch for tag v2
+Some changes made for this file in test branch for tag v1
+Some changes made for this file in test branch for tag v1
+Some changes made for this file in test branch for tag v2
+Some changes made for this file in test branch for tag v4
